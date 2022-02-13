@@ -26,7 +26,8 @@ Before running the application first install the following dependencies.
 
 ## Usage
 
-This section should include screenshots, code blocks, or animations explaining how to use your project.
+The image below shows step by step each question in this app an sample responses:
+![](./data/stepbystep.PNG)
 
 ---
 
