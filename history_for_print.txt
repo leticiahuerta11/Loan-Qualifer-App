@@ -2,3 +2,11 @@
     2  pwd
     3  exit
     4  history > history_for_print.txt
+    5  ls
+    6  more history_for_print.txt 
+    7  pwd
+    8  git add .
+    9  git commit -m "commiting my work to my repository"
+   10  git push
+   11  more history_for_print.txt 
+   12  history > history_for_print.txt
