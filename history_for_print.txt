@@ -1,0 +1,4 @@
+    1  ls
+    2  pwd
+    3  exit
+    4  history > history_for_print.txt
